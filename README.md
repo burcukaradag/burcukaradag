@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burcukaradag
-- 💻  I’m interested in Front End Web Development. Since 2020 I have been learning and breathing web development. 
+- 💻  I’m interested in Front End Web Development. Since 2020 I have been learning and working on web development. 
 - ✍️  I am always trying to improve myself and learn new things about web development.Currently, I am improving my JS and react skills.
 
 
