@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burcukaradag
-- 💻  I’m interested in Data analysis.Passionate about studying how to improve performance. Strategically-minded thorough and meticulous junior data analyst with a strong background in mathematics.  Experienced in preparing detailed documents and reports while managing complex internal and external data responsibilities.
+- 💻  I’m interested in Data analysis.Passionate about studying how to improve business performance. Strategically-minded thorough and meticulous junior data analyst with a strong background in mathematics.  Experienced in preparing detailed documents and reports while managing complex internal and external data responsibilities.
 
 
 
